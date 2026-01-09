@@ -1,3 +1,4 @@
+![logo](https://github.com/harshita010/harshita010-/blob/main/Background.png)
 <h1 align="center">Hi 👋, I'm Harshita</h1>
 <h3 align="center">A passionate Aspiring Data Analyst from India</h3>
 <img align="right"alt="coding"width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
